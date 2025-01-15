@@ -1,4 +1,4 @@
-# python_part5_assignment
+
 in this assignment i included exception and file handling related questions.
 in 1st exercise it is a code for read a file display its contents.
 2nd execise is copying contents from one file and append to another file.
